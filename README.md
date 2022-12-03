@@ -12,8 +12,10 @@
 <div align="center">
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=js,python,lua,haxe,html&perline=5">
+  <h3>Learning</h3>
+  <img src="https://skillicons.dev/icons?i=css,markdown,java&perline=3">
   <h3>Software & Programs</h3>
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,blender,haxeflixel,raspberrypi&perline=6">
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,blender,haxeflixel,raspberrypi,bash&perline=7">
   <h3>Social</h3>
   <img src="https://skillicons.dev/icons?i=discord">
   <br/>

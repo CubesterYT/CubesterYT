@@ -8,7 +8,7 @@
   <br>
   <span style="font-size:10px;!important"> ― Sun Tzu, The Art of War</span>
 </p>
-
+  <!--TODO | Refine quotes, user profile, icons, and more. Revamp soon.-->
 <div align="center">
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=js,python,lua,haxe,html&perline=5">

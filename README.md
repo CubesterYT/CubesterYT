@@ -8,16 +8,20 @@
   <br>
   <span style="font-size:10px;!important"> ― Sun Tzu, The Art of War</span>
 </p>
-  <!--TODO | Refine quotes, user profile, icons, and more. Revamp soon.-->
+
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,python,lua,haxe,html&perline=5">
+  <img src="https://skillicons.dev/icons?i=js,python,lua,haxe,html">
   <h3>Learning</h3>
-  <img src="https://skillicons.dev/icons?i=css,markdown,java&perline=3">
+  <img src="https://skillicons.dev/icons?i=css,markdown,java">
   <h3>Software & Programs</h3>
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,blender,haxeflixel,raspberrypi,bash&perline=7">
+  <img src="https://skillicons.dev/icons?i=vscode,git,blender,haxeflixel,raspberrypi">
+  <h3>Command Shells</h3>
+  <img src="https://skillicons.dev/icons?i=powershell,bash">
+  <br>
+  <span style="font-size:10px;!important">*Windows is my main, so I use Powershell, but I use Bash on Chromebook when using Crostini</span>
   <h3>Social</h3>
-  <img src="https://skillicons.dev/icons?i=discord">
+  <img src="https://skillicons.dev/icons?i=discord,linkedin">
   <br/>
   <br/>
   <br/>

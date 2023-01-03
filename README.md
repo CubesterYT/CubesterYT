@@ -15,11 +15,9 @@
   <h3>Learning</h3>
   <img src="https://skillicons.dev/icons?i=css,markdown,java">
   <h3>Software & Programs</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,blender,haxeflixel,raspberrypi">
+  <img src="https://skillicons.dev/icons?i=vscode,git,blender,haxeflixel">
   <h3>Command Shells</h3>
   <img src="https://skillicons.dev/icons?i=powershell,bash">
-  <br>
-  <span style="font-size:10px;!important">*Windows is my main, so I use Powershell, but I use Bash on Chromebook when using Crostini</span>
   <h3>Social</h3>
   <img src="https://skillicons.dev/icons?i=discord,linkedin">
   <br/>

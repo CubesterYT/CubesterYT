@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/78769806?v=4">
+  <img width="100" style="border-radius: 50%" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/78769806?v=4v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
   <br>
   <b>Cubester</b>
   <br>

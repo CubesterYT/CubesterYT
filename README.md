@@ -10,19 +10,24 @@
 </p>
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,python,lua,haxe,html">
-  <h3>Learning</h3>
-  <img src="https://skillicons.dev/icons?i=css,markdown,java">
-  <h3>Software & Programs</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,blender,haxeflixel">
-  <h3>Command Shells</h3>
+  <h3>Languages I Know (Somewhat):</h3>
+  <img src="https://skillicons.dev/icons?i=js,python,lua">
+  <h3>Trying to Learn:</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,markdown,java,haxe">
+  <h3>Software & Programs I Use:</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,blender">
+  <h3>Command Shells I Use:</h3>
   <img src="https://skillicons.dev/icons?i=powershell,bash">
-  <h3>Social</h3>
-  <img src="https://skillicons.dev/icons?i=discord,linkedin">
+  <h3>I'm On:</h3>
+  <img src="https://skillicons.dev/icons?i=discord,replit,linkedin">
   <br/>
   <br/>
   <br/>
   <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 </div>
+<br>
+<div align="center">
+  [![Replit: @Cubester]](https://replit.com/@Cubester)
+
+[Replit: @Cubester]: https://img.shields.io/badge/-@Cubester-f26201?logo=replit&logoColor=white&style=flat-square
 <!--TODO | Revamp-->

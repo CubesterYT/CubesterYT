@@ -26,7 +26,10 @@
   <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 </div>
 <br>
-[![Replit: Cubester]](https://replit.com/@Cubester)
+<div align="center">
 
-[Replit: Cubester]: https://img.shields.io/badge/-@Cubester-f26201?logo=replit&logoColor=white&style=flat-square
+[![Replit: @Cubester]](https://replit.com/@Cubester)
+
+[Replit: @Cubester]: https://img.shields.io/badge/-@Cubester-f26201?logo=replit&logoColor=white&style=flat-square
+
 <!--TODO | Revamp-->

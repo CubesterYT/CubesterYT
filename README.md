@@ -26,10 +26,17 @@
   <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
 </div>
 <br>
+
 <div align="center">
 
-[![Replit: @Cubester]](https://replit.com/@Cubester)
+<b>Links</b>
 
+[![Youtube: @Cubester]][youtube] [![Replit: @Cubester]][replit]
+
+[Youtube: @Cubester]: https://img.shields.io/badge/-@Cubester-ff0000?logo=youtube&logoColor=white&style=flat-square
 [Replit: @Cubester]: https://img.shields.io/badge/-@Cubester-f26201?logo=replit&logoColor=white&style=flat-square
 
-<!--TODO | Revamp-->
+[youtube]: https://youtube.com/@Cubester
+[replit]: https://replit.com/@Cubester
+
+<!--TODO: Revamp in Progress-->

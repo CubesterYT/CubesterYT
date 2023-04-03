@@ -18,9 +18,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,blender">
   <h3>Command Shells I Use:</h3>
   <img src="https://skillicons.dev/icons?i=powershell,bash">
-  <h3>I'm On:</h3>
-  <img src="https://skillicons.dev/icons?i=discord,replit,linkedin">
-  <br/>
   <br/>
   <br/>
   <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
@@ -29,14 +26,36 @@
 
 <div align="center">
 
-<b>Links</b>
+<b><h2>Links</b><h4>
 
-[![Youtube: @Cubester]][youtube] [![Replit: @Cubester]][replit]
+Social
+
+[![Youtube: @Cubester]][youtube] [![Twitch: cubester]][twitch] [![Reddit: @CubesterYT]][reddit]
+
+Gaming
+
+[![Roblox: @CubesterYT]][roblox]
+
+
+Development Sites
+
+[![Replit: @Cubester]][replit]
+
+
+<!--*Split*-->
+
 
 [Youtube: @Cubester]: https://img.shields.io/badge/-@Cubester-ff0000?logo=youtube&logoColor=white&style=flat-square
+[Twitch: cubester]: https://img.shields.io/badge/-cubester-6c2498?logo=twitch&logoColor=white&style=flat-square
+[Reddit: @CubesterYT]: https://img.shields.io/badge/-@CubesterYT-ff4300?logo=reddit&logoColor=white&style=flat-square
 [Replit: @Cubester]: https://img.shields.io/badge/-@Cubester-f26201?logo=replit&logoColor=white&style=flat-square
+[Roblox: @CubesterYT]: https://img.shields.io/badge/-@CubesterYT-000000?logo=roblox&logoColor=white&style=flat-square
+
 
 [youtube]: https://youtube.com/@Cubester
+[twitch]: https://twitch.tv/cubester
+[reddit]: https://www.reddit.com/user/CubesterYT
 [replit]: https://replit.com/@Cubester
+[roblox]: https://web.roblox.com/users/287779111/profile
 
 <!--TODO: Revamp in Progress-->

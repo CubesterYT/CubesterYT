@@ -27,7 +27,7 @@
 </div>
 <br>
 <div align="center">
-  [![Replit: @Cubester]](https://replit.com/@Cubester)
+  [![Replit: Cubester]](https://replit.com/@Cubester)
 
-[Replit: @Cubester]: https://img.shields.io/badge/-@Cubester-f26201?logo=replit&logoColor=white&style=flat-square
+[Replit: Cubester]: https://img.shields.io/badge/-@Cubester-f26201?logo=replit&logoColor=white&style=flat-square
 <!--TODO | Revamp-->

@@ -42,7 +42,7 @@ Development Sites
 [![Replit: @Cubester]][replit]
 
 
-<!--*Split*-->
+<!--*Split in between Variables and Main*-->
 
 
 [Youtube: @Cubester]: https://img.shields.io/badge/-@Cubester-ff0000?logo=youtube&logoColor=white&style=flat-square

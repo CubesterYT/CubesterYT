@@ -13,7 +13,7 @@
   <h3>Languages I Know (Somewhat):</h3>
   <img src="https://skillicons.dev/icons?i=js,python,lua">
   <h3>Trying to Learn:</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,markdown,java,haxe">
+  <img src="https://skillicons.dev/icons?i=html,css,markdown,java,cs">
   <h3>Software I Use:</h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,nodejs,blender">
   <h3>Command Shells I Use:</h3>
